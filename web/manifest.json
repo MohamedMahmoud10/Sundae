@@ -1,11 +1,11 @@
 {
-    "name": "Talented Legal",
-    "short_name": "Talented",
+    "name": "Sundae Legal",
+    "short_name": "Sundae",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#hexcode",
     "theme_color": "#hexcode",
-    "description": "Privacy Policy and Terms and Conditions for the Talented app.",
+    "description": "Privacy Policy and Terms and Conditions for the Sundae app.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
